@@ -1,4 +1,4 @@
-package org.openjfx;
+package org.silibre;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
